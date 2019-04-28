@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1556467544860,
+  "index": "https://raskoleinonen.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://raskoleinonen.github.io/es2015-polyfills.c5dd28b362270c767b34.js",
+        "https://raskoleinonen.github.io/favicon.ico",
+        "https://raskoleinonen.github.io/index.html",
+        "https://raskoleinonen.github.io/main.d80e714a6757dc2d956f.js",
+        "https://raskoleinonen.github.io/polyfills.8bbb231b43165d65d357.js",
+        "https://raskoleinonen.github.io/runtime.26209474bfa8dc87a77c.js",
+        "https://raskoleinonen.github.io/styles.32631d36c6f5a97ebd4c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://raskoleinonen.github.io/assets/balloon_blue.svg",
+        "https://raskoleinonen.github.io/assets/balloon_green.svg",
+        "https://raskoleinonen.github.io/assets/balloon_orange.svg",
+        "https://raskoleinonen.github.io/assets/balloon_pink.svg",
+        "https://raskoleinonen.github.io/assets/balloon_purple.svg",
+        "https://raskoleinonen.github.io/assets/balloon_red.svg",
+        "https://raskoleinonen.github.io/assets/balloon_turquoise.svg",
+        "https://raskoleinonen.github.io/assets/balloon_yellow.svg",
+        "https://raskoleinonen.github.io/assets/icons/icon-128x128.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-144x144.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-152x152.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-192x192.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-384x384.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-512x512.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-72x72.png",
+        "https://raskoleinonen.github.io/assets/icons/icon-96x96.png",
+        "https://raskoleinonen.github.io/assets/rain.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://raskoleinonen.github.io/assets/balloon_blue.svg": "da03db4132ebaa98dcef8d9a8ba78ec2da32179a",
+    "https://raskoleinonen.github.io/assets/balloon_green.svg": "ae84f4cbd72286519ddcbb26af5143fccdf45056",
+    "https://raskoleinonen.github.io/assets/balloon_orange.svg": "1eeee7cb36bd283f1f22dcb970b4a383428b5cb7",
+    "https://raskoleinonen.github.io/assets/balloon_pink.svg": "d8eac71c424d622b762429dee2ddde47b8763651",
+    "https://raskoleinonen.github.io/assets/balloon_purple.svg": "e156293dbaaff19b9d98b515ebc5a05bcd721f68",
+    "https://raskoleinonen.github.io/assets/balloon_red.svg": "c5e738e06e37cd985b7031ed193fd1937c616d11",
+    "https://raskoleinonen.github.io/assets/balloon_turquoise.svg": "6aa0378d233ba6a8b819e1928599b1d04bddf6af",
+    "https://raskoleinonen.github.io/assets/balloon_yellow.svg": "cfb99e51d719170ebeb9c74ac1e0349ca5d1b9c2",
+    "https://raskoleinonen.github.io/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://raskoleinonen.github.io/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://raskoleinonen.github.io/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://raskoleinonen.github.io/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://raskoleinonen.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://raskoleinonen.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://raskoleinonen.github.io/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://raskoleinonen.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://raskoleinonen.github.io/assets/rain.svg": "762bb7fa43f9bdd646ea7181a9ef3860a663ba2f",
+    "https://raskoleinonen.github.io/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "https://raskoleinonen.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://raskoleinonen.github.io/index.html": "b41b5558132fe0e1152c1490f41d5bcc5680a091",
+    "https://raskoleinonen.github.io/main.d80e714a6757dc2d956f.js": "0c4cf867d824e556a6efad4d2923ae2bf1525024",
+    "https://raskoleinonen.github.io/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://raskoleinonen.github.io/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://raskoleinonen.github.io/styles.32631d36c6f5a97ebd4c.css": "74bdad6711b6784449a7a509784501e772aa0ce4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
