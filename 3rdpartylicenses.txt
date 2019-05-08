@@ -149,6 +149,9 @@ MIT
 @angular/service-worker
 MIT
 
+@ngrx/effects
+MIT
+
 @ngrx/store
 MIT
 
