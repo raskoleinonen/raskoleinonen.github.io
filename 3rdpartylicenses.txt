@@ -118,15 +118,17 @@ THE SOFTWARE.
 
 @angular/material/dialog
 
-@angular/material/form-field
+@angular/material/divider
 
-@angular/material/grid-list
+@angular/material/form-field
 
 @angular/material/icon
 
 @angular/material/menu
 
 @angular/material/paginator
+
+@angular/material/progress-bar
 
 @angular/material/select
 
