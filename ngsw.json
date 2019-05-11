@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557537540214,
+  "timestamp": 1557540434197,
   "index": "https://raskoleinonen.github.io/index.html",
   "assetGroups": [
     {
@@ -26,6 +26,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "https://raskoleinonen.github.io/apple-touch-icon.png",
         "https://raskoleinonen.github.io/assets/balloon_blue.svg",
         "https://raskoleinonen.github.io/assets/balloon_green.svg",
         "https://raskoleinonen.github.io/assets/balloon_orange.svg",
@@ -52,6 +53,7 @@
     "https://raskoleinonen.github.io/5.1c74eeef2b6d3b8afc03.js": "c0e4318148bdad9515af2e81530f35471660153b",
     "https://raskoleinonen.github.io/6.3de25b45fd5494c5e131.js": "728997bb1dec5ca3a2d5c648c3420025e7008302",
     "https://raskoleinonen.github.io/7.8221898088c0a023b1a3.js": "547c642fb8b0e5f87976690e0dd890f630d45837",
+    "https://raskoleinonen.github.io/apple-touch-icon.png": "ba095d3a64013ff2bd610e97226cf5b6713089b2",
     "https://raskoleinonen.github.io/assets/balloon_blue.svg": "da03db4132ebaa98dcef8d9a8ba78ec2da32179a",
     "https://raskoleinonen.github.io/assets/balloon_green.svg": "ae84f4cbd72286519ddcbb26af5143fccdf45056",
     "https://raskoleinonen.github.io/assets/balloon_orange.svg": "1eeee7cb36bd283f1f22dcb970b4a383428b5cb7",
@@ -70,8 +72,8 @@
     "https://raskoleinonen.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://raskoleinonen.github.io/assets/rain.svg": "adfcbb781afbedcc2f54b85ce563d9afdd1c6b13",
     "https://raskoleinonen.github.io/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "https://raskoleinonen.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://raskoleinonen.github.io/index.html": "a1d2fdb2fafe7c1da6877458dcf1310bad99c701",
+    "https://raskoleinonen.github.io/favicon.ico": "0edaa5a931857f35a6882f632b6237a84b254774",
+    "https://raskoleinonen.github.io/index.html": "d479c1f016f298c9e77cd7ebf6905d531a88883a",
     "https://raskoleinonen.github.io/main.30b9b74fac9d83ac1314.js": "081ba27cb4afeb1146f66fb792b8aeb9a96b8d5f",
     "https://raskoleinonen.github.io/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "https://raskoleinonen.github.io/runtime.54eb0d600e20babd7245.js": "893de5c4ecf0e8b01313e2c08e271e4e25c9d1ad",
